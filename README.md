@@ -30,3 +30,8 @@
 - year of Pass : 2014  <br>
 - Percentage : 80% <br>
 
+### Skills ###
+- Core java
+- HTML
+- CSS
+- Python

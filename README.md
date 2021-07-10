@@ -1,4 +1,4 @@
-# Ressume
+# Resume
 ## Aravinda Swamy.B
 ### Personal Details
 - Name : B.Aravinda Swamy <br>

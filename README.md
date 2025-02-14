@@ -10,7 +10,7 @@
 - College Name : _KMM Institute of Postgraduate Studies,Tirupati_ <br>
 - Branch : _Computer Applications_<br> 
 - year of Pass : _2021_ <br>
-- Percentage : _65%_<br>
+- Percentage : _69.5%_<br>
 
 **BSc**
 - College Name : Sai Parameswara Degree college,Jammalamadugu  <br>

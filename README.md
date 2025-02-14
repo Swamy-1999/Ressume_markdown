@@ -31,7 +31,9 @@
 - Percentage : 80% <br>
 
 ### Skills ###
-- Core java
-- HTML
-- CSS
+- DevOps
+- Shell Scripting
+- Linux
+- Git & GitHub
+- HTML & CSS
 - Python
